@@ -56,7 +56,7 @@ cd simple_url_shortener
 
 
 ```bash
-cd simple_url_shortener
+cd simple_url_shortener/app
 ```
 
 # 2. Create a Virtual Environment
