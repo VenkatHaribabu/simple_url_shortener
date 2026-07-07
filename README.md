@@ -50,6 +50,10 @@ simple_url_shortener/
 
 # Setup Instructions
 
+1. Clone the Repository
+git clone <repository-url>
+cd simple_url_shortener
+
 
 ```bash
 cd simple_url_shortener
